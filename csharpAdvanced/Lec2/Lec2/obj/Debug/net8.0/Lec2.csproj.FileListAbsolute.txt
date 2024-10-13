@@ -1,0 +1,15 @@
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\bin\Debug\net8.0\Lec2.exe
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\bin\Debug\net8.0\Lec2.deps.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\bin\Debug\net8.0\Lec2.runtimeconfig.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\bin\Debug\net8.0\Lec2.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\bin\Debug\net8.0\Lec2.pdb
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\Lec2.GeneratedMSBuildEditorConfig.editorconfig
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\Lec2.AssemblyInfoInputs.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\Lec2.AssemblyInfo.cs
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\Lec2.csproj.CoreCompileInputs.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\Lec2.sourcelink.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\Lec2.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\refint\Lec2.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\Lec2.pdb
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\Lec2.genruntimeconfig.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Lec2\obj\Debug\net8.0\ref\Lec2.dll

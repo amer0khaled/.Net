@@ -1,0 +1,15 @@
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\bin\Debug\net8.0\Assignment4.exe
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\bin\Debug\net8.0\Assignment4.deps.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\bin\Debug\net8.0\Assignment4.runtimeconfig.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\bin\Debug\net8.0\Assignment4.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\bin\Debug\net8.0\Assignment4.pdb
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\Assignment4.AssemblyInfoInputs.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\Assignment4.AssemblyInfo.cs
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\Assignment4.csproj.CoreCompileInputs.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\Assignment4.sourcelink.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\Assignment4.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\refint\Assignment4.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\Assignment4.pdb
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\Assignment4.genruntimeconfig.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec2\Assignment4\Assignment4\obj\Debug\net8.0\ref\Assignment4.dll
