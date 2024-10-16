@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBD6842-7A95-4761-AF81-40BA5AE17AA5}|Lec3\\Lec3.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec3\\lec3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBD6842-7A95-4761-AF81-40BA5AE17AA5}|Lec3\\Lec3.csproj|solutionrelative:lec3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBD6842-7A95-4761-AF81-40BA5AE17AA5}|Lec3\\Lec3.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec3\\lec3\\assignment2\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBD6842-7A95-4761-AF81-40BA5AE17AA5}|Lec3\\Lec3.csproj|solutionrelative:lec3\\assignment2\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBD6842-7A95-4761-AF81-40BA5AE17AA5}|Lec3\\Lec3.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec3\\lec3\\assignment1\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBD6842-7A95-4761-AF81-40BA5AE17AA5}|Lec3\\Lec3.csproj|solutionrelative:lec3\\assignment1\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cache.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec3\\Lec3\\Assignment2\\Cache.cs",
+              "RelativeDocumentMoniker": "Lec3\\Assignment2\\Cache.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec3\\Lec3\\Assignment2\\Cache.cs",
+              "RelativeToolTip": "Lec3\\Assignment2\\Cache.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:37:27.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayUtils.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec3\\Lec3\\Assignment1\\ArrayUtils.cs",
+              "RelativeDocumentMoniker": "Lec3\\Assignment1\\ArrayUtils.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec3\\Lec3\\Assignment1\\ArrayUtils.cs",
+              "RelativeToolTip": "Lec3\\Assignment1\\ArrayUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:05:49.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec3\\Lec3\\Program.cs",
+              "RelativeDocumentMoniker": "Lec3\\Program.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec3\\Lec3\\Program.cs",
+              "RelativeToolTip": "Lec3\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:03:44.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

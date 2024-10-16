@@ -1,0 +1,15 @@
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\bin\Debug\net8.0\Lec3.exe
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\bin\Debug\net8.0\Lec3.deps.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\bin\Debug\net8.0\Lec3.runtimeconfig.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\bin\Debug\net8.0\Lec3.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\bin\Debug\net8.0\Lec3.pdb
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\Lec3.GeneratedMSBuildEditorConfig.editorconfig
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\Lec3.AssemblyInfoInputs.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\Lec3.AssemblyInfo.cs
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\Lec3.csproj.CoreCompileInputs.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\Lec3.sourcelink.json
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\Lec3.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\refint\Lec3.dll
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\Lec3.pdb
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\Lec3.genruntimeconfig.cache
+D:\amer khaled\My Repos\.Net\csharpAdvanced\Lec3\Lec3\obj\Debug\net8.0\ref\Lec3.dll
