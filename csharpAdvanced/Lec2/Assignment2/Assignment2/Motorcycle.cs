@@ -9,7 +9,17 @@ namespace Assignment2
 {
     public class Motorcycle : Vehicle
     {
-        public override void Describe()
+        public void Start()
+        {
+            Console.WriteLine("Motorcycle Start ...");
+        }
+
+        public void Stop()
+        {
+            Console.WriteLine("Motorcycle Stop ...");
+        }
+
+        public void Describe()
         {
             Console.WriteLine("this is Motorcycle");
         }

@@ -7,8 +7,28 @@
       "RelativeMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec2\\assignment1\\assignment1\\onlinestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\onlinestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec2\\assignment1\\assignment1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec2\\assignment1\\assignment1\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec2\\assignment1\\assignment1\\banktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\banktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec2\\assignment1\\assignment1\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec2\\assignment1\\assignment1\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|d:\\amer khaled\\my repos\\.net\\csharpadvanced\\lec2\\assignment1\\assignment1\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167D0696-557E-4B19-9E8B-D8176C802534}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\IPayment.cs",
+              "RelativeDocumentMoniker": "Assignment1\\IPayment.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\IPayment.cs",
+              "RelativeToolTip": "Assignment1\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:42:03.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\PayPal.cs",
+              "RelativeDocumentMoniker": "Assignment1\\PayPal.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\PayPal.cs",
+              "RelativeToolTip": "Assignment1\\PayPal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:42:05.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "Assignment1\\CreditCardPayment.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\CreditCardPayment.cs",
+              "RelativeToolTip": "Assignment1\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:42:01.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankTransfer.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\BankTransfer.cs",
+              "RelativeDocumentMoniker": "Assignment1\\BankTransfer.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\BankTransfer.cs",
+              "RelativeToolTip": "Assignment1\\BankTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:41:55.253Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OnlineStore.cs",
-              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\OnlineStore.cs",
-              "RelativeDocumentMoniker": "Assignment1\\OnlineStore.cs",
-              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\OnlineStore.cs*",
-              "RelativeToolTip": "Assignment1\\OnlineStore.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\User.cs",
+              "RelativeDocumentMoniker": "Assignment1\\User.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\User.cs*",
+              "RelativeToolTip": "Assignment1\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:54:59.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "Assignment1\\PaymentProcessor.cs",
+              "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\PaymentProcessor.cs",
+              "RelativeToolTip": "Assignment1\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T04:47:31.783Z",
               "EditorCaption": ""
@@ -41,7 +130,7 @@
               "RelativeDocumentMoniker": "Assignment1\\Program.cs",
               "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec2\\Assignment1\\Assignment1\\Program.cs*",
               "RelativeToolTip": "Assignment1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T13:29:55.956Z",
               "EditorCaption": ""

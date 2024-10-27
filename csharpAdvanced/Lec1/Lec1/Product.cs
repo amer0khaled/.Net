@@ -25,6 +25,8 @@ namespace Lec1
             {
                 if (value >= 0)
                     price = value;
+                else
+                    Console.WriteLine("Not Valid Price");
             } 
         }
         public int StockQuantity 

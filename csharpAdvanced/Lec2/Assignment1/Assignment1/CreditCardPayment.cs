@@ -8,9 +8,9 @@ namespace Lec2
 {
     public class CreditCardPayment : IPayment
     {
-        public void PayBill()
+        public void PayBill(double amount)
         {
-            Console.WriteLine("bill has paid via Credit Card");
+            Console.WriteLine($"Processing CreditCard payment of {amount:C}");
         }
     }
 }

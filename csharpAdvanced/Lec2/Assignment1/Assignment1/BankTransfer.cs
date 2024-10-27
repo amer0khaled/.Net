@@ -8,9 +8,9 @@ namespace Lec2
 {
     public class BankTransfer : IPayment
     {
-        public void PayBill()
+        public void PayBill(double amount)
         {
-            Console.WriteLine("bill has paid via Bank Transfer");
+            Console.WriteLine($"Processing BankTransfer payment of {amount:C}");
         }
     }
 }

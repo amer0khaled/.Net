@@ -12,12 +12,12 @@ namespace Lec1
         private double _balance = 0.0;
         public BankAccount(int accountNumber, string accountName)
         {
-            this.accountNumber = accountNumber;
+            AccountNumber = accountNumber;
             AccountHoldName = accountName;
 
         }
 
-        public int AccountNumber{ get { return accountNumber; } }
+        public int AccountNumber { get; private set; }
         public string AccountHoldName { get; private set; }
         public double Balance 
         { 

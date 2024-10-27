@@ -8,7 +8,7 @@ namespace Assignment2
 {
     public interface IControllable
     {
-        void Started();
+        void Start();
         void Stop();
     }
 }

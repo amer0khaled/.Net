@@ -4,14 +4,10 @@
     {
         static void Main(string[] args)
         {
-            OnlineStore store1 = new OnlineStore();
-            OnlineStore store2 = new OnlineStore(new BankTransfer());
-            OnlineStore store3 = new OnlineStore(new CreditCardPayment());
+            PaymentProcessor processor = new PaymentProcessor();
+            processor.CheckOut(new Assignment1.User("amer", new CreditCardPayment()), 155.6);
 
-            store1.PaymentMethod = new PayPal();
-            store1.PayBill();
-            store2.PayBill();
-            store3.PayBill();
+
         }
     }
 }

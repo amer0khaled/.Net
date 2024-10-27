@@ -8,6 +8,6 @@ namespace Lec2
 {
     public interface IPayment
     {
-        void PayBill();
+        void PayBill(double amount);
     }
 }

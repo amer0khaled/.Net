@@ -8,9 +8,9 @@ namespace Lec2
 {
     public class PayPal : IPayment
     {
-        public void PayBill()
+        public void PayBill(double amount)
         {
-            Console.WriteLine("bill has paid via PayPal");
+            Console.WriteLine($"Processing PayPal payment of {amount:C}");
         }
     }
 }

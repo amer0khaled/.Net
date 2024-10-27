@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Lec1\\Car.cs",
               "ToolTip": "D:\\amer khaled\\My Repos\\.Net\\csharpAdvanced\\Lec1\\Lec1\\Car.cs",
               "RelativeToolTip": "Lec1\\Car.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T09:39:27.657Z",
               "EditorCaption": ""
@@ -76,6 +76,10 @@
               "ViewState": "AQIAAAQAAAAAAAAAAAAzwAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T08:14:40.98Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

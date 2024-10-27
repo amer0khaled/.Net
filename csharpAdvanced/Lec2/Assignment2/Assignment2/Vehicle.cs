@@ -7,17 +7,8 @@ using System.Transactions;
 
 namespace Assignment2
 {
-    public abstract class Vehicle : IControllable
+    public interface Vehicle : IControllable
     {
-        public void Started()
-        {
-            Console.WriteLine($"{this.GetType()} Started...");
-        }
-        public void Stop()
-        {
-            Console.WriteLine($"{this.GetType()} Stopped...");
-        }
-
-        public abstract void Describe();
+        void Describe();
     }
 }
