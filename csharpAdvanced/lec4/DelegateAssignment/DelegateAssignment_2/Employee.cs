@@ -31,10 +31,18 @@ public class Employee
             }
         }
         
-        foreach (var employee in employees)
+        PrintEmployee(employees);
+    }
+
+    public static void CalculateBonus(List<Employee> employees, Func<Employee, double> bonusCalculator)
+    {
+        for (int i = 0; i < employees.Count; i++)
         {
-            Console.WriteLine($"Name: {employee.Name} | Salary: {employee.Salary} | Years of Experience: {employee.YearsOfExperience}");
+            var bonus = bonusCalculator(employees[i]);
+            employees[i].Salary += bonus;
         }
+        
+        PrintEmployee(employees);
     }
 
     public static int CompareBasedOnYearsOfExperience(Employee employee1, Employee employee2)
@@ -49,9 +57,22 @@ public class Employee
         return 0;
     }
 
-    private void PrintEmployee()
+    public static double GetBonusBasedOnYearsOfExperience(Employee employee)
     {
-        Console.WriteLine($"Name: {Name} | Salary: {Salary} | Years of Experience: {YearsOfExperience}");
+        return employee.YearsOfExperience * employee.Salary * 0.2;
+    }
+
+    private static void PrintEmployee(List<Employee> employees)
+    {
+        foreach (var employee in employees)
+        {
+            Console.WriteLine(employee);
+        }
+    }
+
+    public override string ToString()
+    {
+        return $"Name: {Name} | Salary: {Salary} | Years of Experience: {YearsOfExperience}";
     }
     
 }
