@@ -15,7 +15,7 @@ public class Employee
     public double Salary { get; set; }
     public double YearsOfExperience { get; set; }
 
-    public static void SortEmployee(List<Employee> employees, Func<Employee, Employee, int> comparison_criteria)
+    private static void SortEmployee(List<Employee> employees, Func<Employee, Employee, int> comparison_criteria)
     {
         for (int i = 0; i < employees.Count - 1; i++)
         {
@@ -34,7 +34,17 @@ public class Employee
         PrintEmployee(employees);
     }
 
-    public static void CalculateBonus(List<Employee> employees, Func<Employee, double> bonusCalculator)
+    public static void SortEmployeeBasedOnYearsOfExperience(List<Employee> employees)
+    {
+        SortEmployee(employees, CompareBasedOnYearsOfExperience);
+    }
+    
+    public static void SortEmployeeBasedOnSalary(List<Employee> employees)
+    {
+        SortEmployee(employees, CompareBasedOnSalary);
+    }
+
+    private static void CalculateBonus(List<Employee> employees, Func<Employee, double> bonusCalculator)
     {
         for (int i = 0; i < employees.Count; i++)
         {
@@ -45,19 +55,24 @@ public class Employee
         PrintEmployee(employees);
     }
 
-    public static int CompareBasedOnYearsOfExperience(Employee employee1, Employee employee2)
+    public static void CalculateBonusBasedOnYearsOfExperience(List<Employee> employees)
+    {
+        CalculateBonus(employees, GetBonusBasedOnYearsOfExperience);
+    }
+
+    private static int CompareBasedOnYearsOfExperience(Employee employee1, Employee employee2)
     {
         if (employee1.YearsOfExperience > employee2.YearsOfExperience) return 1;
         return 0;
     }
 
-    public static int CompareBasedOnSalary(Employee employee1, Employee employee2)
+    private static int CompareBasedOnSalary(Employee employee1, Employee employee2)
     {
         if (employee1.Salary > employee2.Salary) return 1;
         return 0;
     }
 
-    public static double GetBonusBasedOnYearsOfExperience(Employee employee)
+    private static double GetBonusBasedOnYearsOfExperience(Employee employee)
     {
         return employee.YearsOfExperience * employee.Salary * 0.2;
     }

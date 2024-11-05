@@ -18,19 +18,19 @@ internal class Program
 
         // sort employee based on salary DESC order
         Console.WriteLine("sorted list based on salary in DESC order:");
-        Employee.SortEmployee(employees, Employee.CompareBasedOnSalary);
+        Employee.SortEmployeeBasedOnSalary(employees);
         
         Console.WriteLine();
         
         // sort employee based on years of experience DESC order
         Console.WriteLine("sorted list based on years of experience in DESC order:");
-        Employee.SortEmployee(employees, Employee.CompareBasedOnYearsOfExperience);
+        Employee.SortEmployeeBasedOnYearsOfExperience(employees);
         
         Console.WriteLine();
         
         // calculate bonus based on experience
         Console.WriteLine("calculate bonus based in years of experience:");
-        Employee.CalculateBonus(employees, Employee.GetBonusBasedOnYearsOfExperience);
+        Employee.CalculateBonusBasedOnYearsOfExperience(employees);
         
     }
 }
